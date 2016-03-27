@@ -10,3 +10,4 @@
 | 도현체 | [배달의 민족](http://www.woowahan.com/?page_id=3985) | OPEN FONT LICENSE | [홈페이지](http://font.woowahan.com/dohyeon/)<br/>[TTF](http://pop.baemin.com/fonts/dohyeon/BMDOHYEON_ttf.ttf) / [OTF](http://pop.baemin.com/fonts/dohyeon/BMDOHYEON_otf.otf) |
 | 배달의민족 한나체 | [배달의 민족](http://www.woowahan.com/?page_id=3985) | OPEN FONT LICENSE | [홈페이지](http://font.woowahan.com/hanna11yrs/)<br/>[OTF](http://pop.baemin.com/fonts/hanna11yrs/BMHANNA_11yrs_otf.otf) / [TTF](http://pop.baemin.com/fonts/hanna11yrs/BMHANNA_11yrs_ttf.ttf) |
 | 배달의민족 주아체 | [배달의 민족](http://www.woowahan.com/?page_id=3985) | OPEN FONT LICENSE | [홈페이지](http://font.woowahan.com/jua/)<br/>[OTF](http://pop.baemin.com/fonts/jua/BMJUA_otf.otf) / [TTF](http://pop.baemin.com/fonts/jua/BMJUA_ttf.ttf) |
+| KT&G 상상체 | [KT&G](http://www.ktng.com/sangsang) | | [홈페이지](http://www.ktng.com/sangsang?mode=DOWN)<br/>[ZIP](http://www.ktng.com/down?fnm=sangsang2015.zip&orgFnm=KTNG%EC%83%81%EC%83%81%EC%B2%B4_2015ver.zip) |
