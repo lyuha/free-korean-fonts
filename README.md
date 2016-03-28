@@ -12,3 +12,4 @@
 | 배달의민족 주아체 | [배달의 민족](http://www.woowahan.com/?page_id=3985) | OPEN FONT LICENSE | [홈페이지](http://font.woowahan.com/jua/)<br/>[OTF](http://pop.baemin.com/fonts/jua/BMJUA_otf.otf) / [TTF](http://pop.baemin.com/fonts/jua/BMJUA_ttf.ttf) |
 | KT&G 상상체 | [KT&G](http://www.ktng.com/sangsang) | | [홈페이지](http://www.ktng.com/sangsang?mode=DOWN)<br/>[ZIP](http://www.ktng.com/down?fnm=sangsang2015.zip&orgFnm=KTNG%EC%83%81%EC%83%81%EC%B2%B4_2015ver.zip) |
 | KoPub 서체 | [한국출판인회](http://www.kopus.org/Biz/electronic/Font.aspx) | [홈페이지](http://www.kopus.org/Biz/electronic/Font.aspx)<br/>[다운로드](http://www.kopus.org/Download/kopub%EC%A0%84%EC%9E%90%EC%B1%85%EA%B8%80%EA%BC%B4_%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4.hwp) | [홈페이지](http://www.kopus.org/Biz/electronic/Font.aspx)<br/> |
+| 고도체 | [고도소프트](http://www.godo.co.kr/company/godofont.php) | [홈페이지](http://www.godo.co.kr/company/godofont.php) | [홈페이지](http://www.godo.co.kr/company/godofont.php) |
